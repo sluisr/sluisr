@@ -1,47 +1,36 @@
-<h1 align="center">Hi there, I'm Luis Soza 👋</h1>
-<h3 align="center">Security Researcher & Low-Level Developer</h3>
+# Luis Soza (`sluisr`)
 
-<p align="center">
-  <a href="https://sluisr.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Kernel+Enthusiast;Security+Researcher;Low-Level+Development;Arch+Linux+User" alt="Typing SVG" />
-  </a>
-</p>
+Systems Engineer, Linux Specialist & Security Researcher.  
+Focused on low-level systems programming in Rust & C, autonomous AI terminal tooling, and Linux kernel internals.
 
 ---
 
-- 🔭 I’m currently working on **High-performance TTY systems and Custom Firmware**
-- ⚙️ My daily driver: **Arch Linux**
-- 📫 How to reach me: **[contact@sluisr.com](mailto:contact@sluisr.com)**
-- 🌐 Portfolio: **[sluisr.com](https://sluisr.com)**
+### Featured Projects
 
-### 🛠️ Languages and Tools
+* **[Corex (`cx`)](https://github.com/sluisr/corex)**  
+  High-performance autonomous terminal AI agent engineered in pure Rust. Features sub-10ms startup times, streaming prompt queuing, fuzzy patch engine, sandboxed shell execution, and hybrid DeepSeek Cloud / offline local model routing.  
+  `Rust` · `Tokio` · `Ratatui` · `Systems Architecture`
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,bash,arch,linux,git,docker,neovim&theme=dark" />
-  </a>
-</p>
+* **[terminal-visualizations](https://github.com/sluisr/terminal-visualizations)**  
+  High-performance real-time 3D mathematical rendering, accretion disk simulations, and audio frequency analyzers computed and displayed directly in the raw Linux TTY.  
+  `Python` · `TTY / Virtual Terminal` · `Signal Processing`
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/sluisr">
-    <img src="https://github-readme-stats.vercel.app/api?username=sluisr&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/sluisr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sluisr&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-  </a>
-</p>
-
-### 🚀 Top Projects
-
-*   **[terminal-visualizations](https://github.com/sluisr/terminal-visualizations)** 
-    > 3D simulations and real-time audio visualizers rendered directly in the TTY.
-*   **[lenovo-p400-bios](https://github.com/sluisr/lenovo-p400-bios)** 
-    > Custom BIOS/UEFI firmware for Lenovo IdeaPad P400 Touch (Hardware whitelist removal & optimization).
+* **[lenovo-p400-bios](https://github.com/sluisr/lenovo-p400-bios)**  
+  Custom UEFI/BIOS firmware reverse engineering for Lenovo IdeaPad P400 Touch: hardware mini-PCIe whitelist removal, GPU power delivery tuning, and microcode patching.  
+  `Firmware` · `UEFI / BIOS` · `Reverse Engineering`
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=60&section=footer" width="100%"/>
-</p>
+### Technical Focus
+
+* **Languages & Systems:** Rust (Async Tokio, Systems), C, Python, Modern Bash/POSIX.
+* **Core Domains:** Linux Kernel & Internals, TTY/Terminal Architecture, Security Research & Auditing, Autonomous Agent Engines.
+* **Environment:** Arch Linux, Neovim, Git, Docker, QEMU/KVM.
+
+---
+
+### Connect & Community
+
+* **Website & Blog:** [sluisr.com](https://sluisr.com)
+* **YouTube:** [youtube.com/@sluisr_](https://www.youtube.com/@sluisr_)
+* **Contact:** [contact@sluisr.com](mailto:contact@sluisr.com)
